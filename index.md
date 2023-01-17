@@ -1,4 +1,7 @@
 ---
 title: Welcome to my blog
+date: 2023-01-17
 ---
-Just working this up so I can make fancy new slides
+
+
+Just trying this out
