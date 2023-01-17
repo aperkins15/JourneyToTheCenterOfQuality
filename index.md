@@ -1,4 +1,7 @@
 ---
 title: Welcome to my blog
+date: 2023-01-17
 ---
 
+
+Just trying this out
