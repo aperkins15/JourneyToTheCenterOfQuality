@@ -1,7 +1,8 @@
 ---
 title: Journeys of a Quality Architect
 description: Come along, friends, and see what trouble I can get into
-body: Just going to jot down somethings that I learn, figure out, stumble on, whatever as I travel this path of Quality Architecture.  Sometimes, it'll be about Quality, sometimes it'll just be about life.  But, everything we do affects what and how and why we test, so why not document that, too?  Feel free to follow along, or not.  Entirely up to you!
+---
+Just going to jot down somethings that I learn, figure out, stumble on, whatever as I travel this path of Quality Architecture.  Sometimes, it'll be about Quality, sometimes it'll just be about life.  But, everything we do affects what and how and why we test, so why not document that, too?  Feel free to follow along, or not.  Entirely up to you!
 
 But, no matter what you do, know that you matter.  And find a way to have an awesome day!!
 ---
