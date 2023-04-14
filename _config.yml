@@ -1,4 +1,8 @@
 
-theme: tctile
-title: QA Diva, Adventures in Coding
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+title: Journeys of a Quality Architect
+
 description: Come along, friends, and see what trouble I can get into
