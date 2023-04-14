@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Journeys of a Quality Architect
 description: Come along, friends, and see what trouble I can get into
 ---
