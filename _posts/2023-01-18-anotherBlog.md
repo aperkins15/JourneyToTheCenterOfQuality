@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "FFFUUUUUUU.....what have I done?"
 date: 2023-01-18
 ---
@@ -10,3 +11,6 @@ Backstory - tried to create those fancy slides...effed it up trying to merge it 
 then I got my whole blog effed.  But, we seem to be back...ish...
 
 we'll see...
+
+
+[back](./)
