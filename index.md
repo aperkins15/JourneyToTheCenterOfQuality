@@ -8,6 +8,7 @@ But, no matter what you do, know that you matter.  And find a way to have an awe
 
 
 ### Blog posts
+---
 
 [Fresh Starts](./_posts/2023-04-14-newStart.md)
 
